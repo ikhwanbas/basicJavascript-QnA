@@ -1,0 +1,15 @@
+{
+  "name": "hacker-rank",
+  "version": "1.0.0",
+  "description": "this a collection of question and answer to understand basic of Javascript",
+  "main": "index.js",
+  "dependencies": {
+    "start": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ikhwanbas",
+  "license": "ISC"
+}
